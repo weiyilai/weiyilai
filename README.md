@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyilai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://my-github-readme-stats-lime.vercel.app/api/top-langs/?username=weiyilai)](https://github.com/anuraghazra/github-readme-stats)
