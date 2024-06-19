@@ -42,3 +42,4 @@
 [![](https://camo.laiweiyi.com/743a5b5372cc5cf99e61624f223bfe5b429f52a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto://joy777park@gmail.com)
 ##
 [![Top Langs](https://my-github-readme-stats-lime.vercel.app/api/top-langs/?username=weiyilai)](https://github.com/anuraghazra/github-readme-stats)
+[![weiyilai's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyilai)](https://github.com/anuraghazra/github-readme-stats)
