@@ -1,108 +1,113 @@
-# 我是一位後端工程師 👋
+# Hi, I'm Weiyi 👋
+
+資深後端工程師，持續研究分散式系統、可靠性工程、基礎架構與 AI 協作開發。
+
+Backend Engineer focused on building and understanding reliable software systems.
+
+My work and experiments mainly revolve around **backend architecture, distributed systems, performance, infrastructure, and AI-assisted software engineering**.
+
+I care not only about whether software works, but also about **why it works, how it fails, how we verify it, and how we improve the engineering process around it**.
 
 ---
 
-## 關於我
+## Engineering Focus
 
-- 💻 熟悉技術：  
-  C# .NET、JavaScript、jQuery、Vue.js、Axios、Markdown、NuGet、JSON、HTML5、Swagger
+### Backend & Architecture
+- C# / .NET / ASP.NET Core
+- REST APIs and backend services
+- Domain-Driven Design
+- Clean Architecture
+- Distributed Systems
+- Microservices
 
-- 🗄️ 資料庫：  
-  MSSQL、MariaDB、MySQL、Redis、MongoDB
+### Data & Messaging
+- MySQL / MariaDB / SQL Server
+- Redis / MongoDB
+- RabbitMQ / Kafka
+- Concurrency and data consistency
 
-- ☁️ 雲端與持續整合部署：  
-  Azure DevOps、Google Cloud、GitHub Actions、Jenkins
-
-- 📬 訊息佇列：  
-  RabbitMQ、Kafka
-
-- 🛠️ 基礎架構與工具：  
-  IIS、NGINX、ngrok、Docker、Kubernetes、Rancher、Lens、SonarQube、Postman、Grafana、grafana-k6、Line Messaging API
-
-- 💡 開發環境與系統：  
-  Visual Studio、VS Code、Notepad++、Vim、Windows、Ubuntu、macOS、Notion、Trello
-
-- 🖥️ 虛擬化平台：  
-  VirtualBox、Hyper-V
-
-- 🎮 遊戲愛好者：  
-  Battle.net、Steam、Final Fantasy XIV
-
----
-
-## DevOps 與自建實驗室
-
-- 🚀 DevOps 愛好者，擁有實務經驗
-
-- 🎛️ 自建了兩個 Kubernetes 叢集實驗室：  
-  - 一個具高可用性架構（HA）  
-  - 一個非高可用性架構（非HA），供測試與學習使用
+### Infrastructure & Reliability
+- Docker / Kubernetes
+- NGINX
+- Google Cloud
+- CI/CD
+- Observability
+- Grafana
+- k6
+- Performance & load testing
 
 ---
 
-## 目前專注
+## Homelab & Infrastructure
 
-- 🎯 主要為後端工程師角色
+I build and maintain Kubernetes environments for hands-on experimentation with:
 
-- 📚 正在深入學習領域驅動設計（DDD）
+- cluster architecture
+- networking
+- ingress / gateway
+- high availability
+- resource management
+- observability
+- performance testing
+- failure investigation
 
-- 🌐 探索分散式系統與微服務技術
-  
-# [![weiyilai's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyilai)](https://github.com/anuraghazra/github-readme-stats)
----
-
-# Hi, I'm a Backend Engineer 👋
-
----
-
-## About Me
-
-- 💻 Skilled in:  
-  C# .NET, JavaScript, jQuery, Vue.js, Axios, Markdown, NuGet, JSON, HTML5, Swagger
-
-- 🗄️ Databases:  
-  MSSQL, MariaDB, MySQL, Redis, MongoDB
-
-- ☁️ Cloud & CI/CD:  
-  Azure DevOps, Google Cloud, GitHub Actions, Jenkins
-
-- 📬 Messaging Queues:  
-  RabbitMQ, Kafka
-
-- 🛠️ Infrastructure & Tools:  
-  IIS, NGINX, ngrok, Docker, Kubernetes, Rancher, Lens, SonarQube, Postman, Grafana, grafana-k6, Line Messaging API
-
-- 💡 IDE / OS:  
-  Visual Studio, VS Code, Notepad++, Vim, Windows, Ubuntu, macOS, Notion, Trello
-
-- 🖥️ Virtualization:  
-  VirtualBox
-
-- 🎮 Gamer:  
-  Battle.net, Steam, Final Fantasy XIV
+I use these environments not only to learn Kubernetes, but also to understand how application, infrastructure, network, and data-layer behavior interact as a system.
 
 ---
 
-## DevOps & Labs
+## AI-assisted Software Engineering
 
-- 🚀 DevOps enthusiast with practical experience
+I'm actively exploring how AI coding agents can participate in real engineering workflows.
 
-- 🎛️ Built and maintain 2 Kubernetes clusters labs:  
-  - One with High Availability (HA)  
-  - One non-HA for testing and learning
+My focus is not simply generating code with AI.
+
+I'm interested in engineering workflows where AI agents can assist with:
+
+- implementation
+- code review
+- investigation
+- testing
+- documentation
+- architecture analysis
+
+while keeping **verification, evidence, review, and human decision gates** explicit.
+
+The goal is to understand where AI can improve engineering productivity — and where engineers still need to understand the underlying system and make the final judgment.
 
 ---
 
-## Current Focus
+## What I'm Currently Exploring
 
-- 🎯 Primarily working as a Backend Engineer
-
-- 📚 Deepening knowledge in Domain-Driven Design (DDD)
-
-- 🌐 Exploring Distributed Systems and Microservices
+- Distributed systems
+- System design
+- Software architecture
+- Reliability engineering
+- Concurrency and race conditions
+- Performance engineering
+- Kubernetes internals and networking
+- AI coding agents and engineering workflows
+- Human–AI collaboration in software development
 
 ---
 
-## Let's Connect  
-- 📧 gmail: [joy777park@gmail](mailto:joy777park@gmail.com)  
-- Feel free to reach out for collaboration or chat anytime.
+## About This GitHub
+
+A large part of this account is my long-term engineering notebook.
+
+Some repositories are experiments, learning records, prototypes, or references accumulated over different stages of my engineering journey.
+
+I prefer keeping that history rather than presenting every repository as a polished production project.
+
+---
+
+[![weiyilai's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyilai)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+> Understand the system.  
+> Verify the evidence.  
+> Then make the engineering decision.
+
+## Let's Connect
+
+- 📧 [joy777park@gmail.com](mailto:joy777park@gmail.com)
